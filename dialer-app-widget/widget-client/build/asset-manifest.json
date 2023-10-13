@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.928892d6.css",
+    "main.js": "/static/js/main.20198a6c.js",
+    "static/js/316.9cb30fe6.chunk.js": "/static/js/316.9cb30fe6.chunk.js",
+    "static/js/969.bf399ace.chunk.js": "/static/js/969.bf399ace.chunk.js",
+    "static/js/231.534ff83f.chunk.js": "/static/js/231.534ff83f.chunk.js",
+    "static/js/35.26ec3b57.chunk.js": "/static/js/35.26ec3b57.chunk.js",
+    "static/js/943.c0faf62f.chunk.js": "/static/js/943.c0faf62f.chunk.js",
+    "static/js/986.81642c70.chunk.js": "/static/js/986.81642c70.chunk.js",
+    "static/js/568.10d058c8.chunk.js": "/static/js/568.10d058c8.chunk.js",
+    "static/js/378.e940c189.chunk.js": "/static/js/378.e940c189.chunk.js",
+    "static/media/Dial-tone-sound.mp3": "/static/media/Dial-tone-sound.93fc588217d68cfaf97a.mp3",
+    "static/media/busy-tone.mp3": "/static/media/busy-tone.c6c2375f06dd54dd9d14.mp3",
+    "static/media/tele-phone.svg": "/static/media/tele-phone.ace1818596b7b137d30cc092d33fcbc4.svg",
+    "static/media/calling-icon.svg": "/static/media/calling-icon.f060351682e26879a3e202352699c7a5.svg",
+    "static/media/mute.svg": "/static/media/mute.f48c3f07b7f65d703bc0601081f75882.svg",
+    "static/media/speaker.svg": "/static/media/speaker.762e155d8fac97e13bf96e4036481a1c.svg",
+    "static/media/disconnect.svg": "/static/media/disconnect.46aafdc14bd112513c14360bd76826bb.svg",
+    "static/media/callInitial.svg": "/static/media/callInitial.8d91244ff53b5cec7f185e8f9980b606.svg",
+    "static/media/call-icon.svg": "/static/media/call-icon.75fae2ed838569219786620777242d50.svg",
+    "index.html": "/index.html",
+    "static/media/search-icon.svg": "/static/media/search-icon.e4a0f15ae6599b8909ff71a3103d7359.svg",
+    "static/media/pause.svg": "/static/media/pause.22feff219548ef186e405f1b65d8ba1b.svg",
+    "static/media/back-button.svg": "/static/media/back-button.085dd700a2a9f697986fc302e300b959.svg",
+    "main.928892d6.css.map": "/static/css/main.928892d6.css.map",
+    "main.20198a6c.js.map": "/static/js/main.20198a6c.js.map",
+    "316.9cb30fe6.chunk.js.map": "/static/js/316.9cb30fe6.chunk.js.map",
+    "969.bf399ace.chunk.js.map": "/static/js/969.bf399ace.chunk.js.map",
+    "231.534ff83f.chunk.js.map": "/static/js/231.534ff83f.chunk.js.map",
+    "35.26ec3b57.chunk.js.map": "/static/js/35.26ec3b57.chunk.js.map",
+    "943.c0faf62f.chunk.js.map": "/static/js/943.c0faf62f.chunk.js.map",
+    "986.81642c70.chunk.js.map": "/static/js/986.81642c70.chunk.js.map",
+    "568.10d058c8.chunk.js.map": "/static/js/568.10d058c8.chunk.js.map",
+    "378.e940c189.chunk.js.map": "/static/js/378.e940c189.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.928892d6.css",
+    "static/js/main.20198a6c.js"
+  ]
+}

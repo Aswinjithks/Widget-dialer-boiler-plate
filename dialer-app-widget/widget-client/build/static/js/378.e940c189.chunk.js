@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwidget_client=self.webpackChunkwidget_client||[]).push([[378],{4378:function(e,c,t){t(2791);c.Z=t.p+"static/media/tele-phone.ace1818596b7b137d30cc092d33fcbc4.svg"}}]);
+//# sourceMappingURL=378.e940c189.chunk.js.map

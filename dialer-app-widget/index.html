@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Sample Website</h1>
+</body>
+<script>
+ var body = document.getElementsByTagName("body")[0];
+    var iframe = document.createElement("iframe");
+    iframe.id="my-widget-project-iframe-id"
+    iframe.src = "http://localhost:3000?account_id=645b7da5f5f76e2b8ef40e2e&widget_id=acce10a3-fb85-41e0-afda-72f0f80d2f10";
+    iframe.width = "100%";
+    iframe.height = "727px";
+    iframe.scrolling="no";
+    iframe.setAttribute("style", "border-width:0;background-color:transparent;position:sticky;bottom:0;left:0;overflow:hidden;z-index:99999;");
+    iframe.allow="camera; microphone"
+    console.log("body",body)
+    body.appendChild(iframe);
+</script>
+</html>

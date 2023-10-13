@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdialer_app=self.webpackChunkdialer_app||[]).push([[949],{1949:function(e,a,r){r.r(a);r(2791);var n=r(6871),s=r(184);a.default=function(){return(0,s.jsxs)("div",{className:"landing_page container flex-1",children:[(0,s.jsx)("header",{children:"Header"}),(0,s.jsx)(n.j3,{}),(0,s.jsx)("footer",{children:"Footer"})]})}}}]);
+//# sourceMappingURL=949.46436920.chunk.js.map
